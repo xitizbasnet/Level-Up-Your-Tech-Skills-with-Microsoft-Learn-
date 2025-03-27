@@ -37,6 +37,31 @@ Microsoft Learn provides **free courses and certifications** to help students, d
 
 ---
 
+# Free Courses with Certificate Offered by Microsoft
+
+Here are some free courses with certificates offered by Microsoft. Check them out below:
+
+- [Get started with GitHub and GitHub Copilot](https://learn.microsoft.com/en-us/plans/gm88tr6o5y5zyk?tab=tab-created&source=docs&learnerGroupId=6152d72c-4497-4443-badb-2a1384793a4d&wt.mc_id=studentamb_459576)
+   
+- [Microsoft Power Platform Fundamentals](https://learn.microsoft.com/en-us/plans/zkddhk2dw1d1op?tab=tab-created&source=docs&learnerGroupId=83a6252f-198d-4e90-b979-8533bf92abf7&wt.mc_id=studentamb_459576)
+
+- [Student Learn Plan Title: Azure Data Fundamentals](https://learn.microsoft.com/en-us/plans/8pkkiy5xgxnpmw?tab=tab-created&source=docs&learnerGroupId=4b1a6dc4-3894-4006-960f-d67ee30ff617&wt.mc_id=studentamb_459576)
+
+- [Azure Fundamentals](https://learn.microsoft.com/en-us/plans/qdwwbm3p0x7gom?tab=tab-created&source=docs&learnerGroupId=99d015f9-3fe4-4a3c-9ed5-ac4f1114c616&wt.mc_id=studentamb_459576)
+
+- [Azure AI Fundamentals](https://learn.microsoft.com/en-us/plans/8pkkiy5x76oy7y?tab=tab-created&source=docs&learnerGroupId=b31f911b-c955-447f-aa4a-4f9b259ff1f6&wt.mc_id=studentamb_459576)
+
+- [Microsoft Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/plans/5dyyborpmok24n?tab=tab-created&source=docs&learnerGroupId=3cee301b-10be-4a99-ae48-67b70e8955bd&wt.mc_id=studentamb_459576)
+
+- [Get started with C#](https://learn.microsoft.com/en-us/plans/31zzc4mw2wk5re?tab=tab-created&source=docs&learnerGroupId=bbb871f8-031e-42e5-a75c-fbbdd0d4abfb&wt.mc_id=studentamb_459576)
+
+- [Copilot for Microsoft 365](https://learn.microsoft.com/en-us/plans/o1mmcm6o12jygw?tab=tab-created&source=docs&learnerGroupId=f815a5cc-3e7c-41a6-9e8f-9cf1fc346e2a&wt.mc_id=studentamb_459576)
+
+- [Explore AI](https://learn.microsoft.com/en-us/plans/w255c4z7dm4dgr?learnerGroupId=462f7593-3c18-4045-91ab-a6bf5f9fb1f5&wt.mc_id=nxg_studentamb_exp1_wwl_459576)
+
+
+---
+
 ## 🌟 **Start Learning Today & Build Your Future in Tech!**  
 
 📌 **Star this repository if you find it helpful!** 🌟  
